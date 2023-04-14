@@ -1,4 +1,4 @@
-I was born i 3rd April 2000
+I was born in 13 rd April 2000
 I done my ssc in 2017
 
 
@@ -12,3 +12,4 @@ logo alignment is centered
 
 
 I have solve the logo alignment issue
+new line is added in feature branch
