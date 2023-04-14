@@ -9,3 +9,6 @@ I am going to earn 5 lakhs per month from this year
 
 
 logo alignment is centered
+
+
+I have solve the logo alignment issue
