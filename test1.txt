@@ -12,3 +12,4 @@ logo alignment is centered
 
 
 I have solve the logo alignment issue
+this text is added from main branch
